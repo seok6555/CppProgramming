@@ -1,0 +1,4 @@
+﻿  Student.cpp
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_6.4\Homework_6.4\Student.cpp(9,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_6.4\Homework_6.4\Student.cpp(19,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Homework_6.4.vcxproj -> C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_6.4\x64\Debug\Homework_6.4.exe
