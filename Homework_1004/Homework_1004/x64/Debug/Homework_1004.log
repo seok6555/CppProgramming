@@ -1,0 +1,6 @@
+﻿  AssignmentOperatorOverloading.cpp
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_1004\Homework_1004\AssignmentOperatorOverloading.cpp(9,7): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_1004\Homework_1004\AssignmentOperatorOverloading.cpp(10,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_1004\Homework_1004\AssignmentOperatorOverloading.cpp(14,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_1004\Homework_1004\AssignmentOperatorOverloading.cpp(21,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Homework_1004.vcxproj -> C:\Users\owner\Desktop\GitHub_Repository\CppProgramming\Homework_1004\x64\Debug\Homework_1004.exe
